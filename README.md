@@ -36,7 +36,6 @@ The dataset is a consolidation of three public datasets from Kaggle, preprocesse
 *   Sheath Blight
 *   Tungro
 *   Leaf Scald
-*   Healthy (if present in the specific split used)
 
 ## Results
 
